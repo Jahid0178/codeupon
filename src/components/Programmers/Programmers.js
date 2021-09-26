@@ -12,8 +12,12 @@ const Programmers = () => {
   }, []);
 
   const handleDetails = (programmer) => {
-    const detail = [...details, programmer];
-    setDetails(detail);
+    if (details.indexOf(programmer) === -1) {
+      const detail = [...details, programmer];
+      setDetails(detail);
+    } else {
+      alert("This person already added");
+    }
   };
 
   return (

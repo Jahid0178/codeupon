@@ -1,6 +1,20 @@
 .details-container {
+  height: 300px;
   color: #fff;
   padding: 10px;
   border-radius: 5px;
   background-color: #0f1846;
+  overflow-x: hidden;
+
+}
+
+.small-img {
+  width: 70px;
+  border-radius: 5px;
+}
+
+.total-box {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #304199;
 }

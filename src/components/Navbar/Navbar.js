@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
-          <a className="navbar-brand text-warning" href="/brand">
+          <a className="navbar-brand brand-name" href="/brand">
             CodeUpon
           </a>
           <button
@@ -57,6 +57,12 @@ const Navbar = () => {
           </div>
         </div>
       </nav>
+      <div className="text-center p-5 m-4">
+        <h1 className="navbar-text">World Programmer Association</h1>
+        <p>
+          You can hire various web developers and software from our website.
+        </p>
+      </div>
     </div>
   );
 };

@@ -14,6 +14,12 @@ const ProgrammerDetail = (props) => {
         <h3 className="text-center">Programmer Details</h3>
         <p>Total Added: {props.details.length}</p>
         <p>Total Salary: $ {salary}</p>
+        {details.map((info) => (
+          <div className="d-flex my-2 total-box">
+            <img className="small-img" src={info.img} alt="" />
+            <p className="ms-1">{info.name}</p>
+          </div>
+        ))}
       </div>
     </div>
   );

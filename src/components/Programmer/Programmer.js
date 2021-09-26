@@ -18,7 +18,7 @@ const Programmer = (props) => {
         <div className="card-footer">
           <button
             onClick={() => props.handleDetails(props.programmer)}
-            className="btn btn-regular fw-bold"
+            className="btn btn-regular fw-bold "
           >
             Add To Hire
           </button>
