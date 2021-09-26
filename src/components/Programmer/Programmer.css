@@ -12,6 +12,10 @@
   background-color: #191f3fe8;
 }
 
+.card:hover {
+  box-shadow: 2px 2px 15px #333;
+}
+
 .btn-regular {
   color: #000937;
   background-color: #ffae00;

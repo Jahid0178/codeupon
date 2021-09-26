@@ -1,3 +1,15 @@
 .navbar-text {
-  color: #0f1846;
+  color: #fff;
+}
+
+.nav-text-container {
+  background-color: #0f1846;
+}
+
+.nav-text-container p {
+  color: #eee;
+}
+
+.nav-text-container h4 {
+  color: #eee;
 }

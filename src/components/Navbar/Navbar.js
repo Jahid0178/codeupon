@@ -57,11 +57,12 @@ const Navbar = () => {
           </div>
         </div>
       </nav>
-      <div className="text-center p-5 m-4">
+      <div className="text-center p-5 m-4 nav-text-container rounded">
         <h1 className="navbar-text">World Programmer Association</h1>
         <p>
           You can hire various web developers and software from our website.
         </p>
+        <h4>Budget: 1M</h4>
       </div>
     </div>
   );
