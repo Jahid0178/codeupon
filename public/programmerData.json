@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "role": "Programmer",
+    "language": "C Programming",
+    "age": 27,
+    "img": "https://images.unsplash.com/photo-1541855492-581f618f69a0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+    "country": "USA",
+    "salary": 30000
+  },
+  {
+    "id": 2,
+    "name": "Ethan Marco",
+    "role": "Programmer",
+    "language": "C++",
+    "age": 25,
+    "img": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=876&q=80",
+    "country": "Denmark",
+    "salary": 15000
+  },
+  {
+    "id": 3,
+    "name": "Rick Tao",
+    "role": "Web Developer",
+    "language": "HTML, CSS, Java-Script, React",
+    "age": 28,
+    "img": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "country": "Canada",
+    "salary": 18000
+  },
+  {
+    "id": 4,
+    "name": "James Lucas",
+    "role": "Software Engineer",
+    "language": "Scala, JavaScript, Python",
+    "age": 30,
+    "img": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+    "country": "Canada",
+    "salary": 23000
+  },
+  {
+    "id": 5,
+    "name": "Anders Benjamin",
+    "role": "Web Developer",
+    "language": "HTML, CSS, JS, React, MongoDB",
+    "age": 32,
+    "img": "https://images.unsplash.com/photo-1559548331-f9cb98001426?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+    "country": "Denmark",
+    "salary": 30000
+  },
+  {
+    "id": 6,
+    "name": "Tim Lee",
+    "role": "Computer Scientist",
+    "language": "C, C++",
+    "age": 29,
+    "img": "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+    "country": "London",
+    "salary": 40000
+  },
+  {
+    "id": 7,
+    "name": "Kernighan Brian",
+    "role": "Web Developer",
+    "language": "HTML, CSS, Python, JS",
+    "age": 35,
+    "img": "https://images.unsplash.com/photo-1524868313790-96da775e01ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "country": "Canada",
+    "salary": 31000
+  },
+  {
+    "id": 8,
+    "name": "Ken Lio",
+    "role": "Software Engineer",
+    "language": "Python, C#",
+    "age": 27,
+    "img": "https://images.unsplash.com/photo-1541747157478-3222166cf342?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "country": "USA",
+    "salary": 38000
+  },
+  {
+    "id": 9,
+    "name": "Guido Rossum",
+    "role": "Computer Programmer",
+    "language": "Python",
+    "age": 30,
+    "img": "https://images.unsplash.com/photo-1603086360919-8b8eacad64bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "country": "Netherlands",
+    "salary": 50000
+  },
+  {
+    "id": 10,
+    "name": "Donald William",
+    "role": "Computer Scientist",
+    "language": "TeX",
+    "age": 33,
+    "img": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "country": "USA",
+    "salary": 30000
+  }
+]

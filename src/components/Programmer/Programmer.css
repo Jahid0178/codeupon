@@ -1,0 +1,24 @@
+.p-image {
+  height: 200px;
+}
+
+.card:hover {
+  box-shadow: 2px 2px 15px rgba(255, 255, 255, 0.8);
+}
+
+.card {
+  height: 550px;
+  color: #fff;
+  background-color: #191f3fe8;
+}
+
+.btn-regular {
+  color: #000937;
+  background-color: #ffae00;
+}
+
+.btn-regular:hover {
+  color: #ffae00;
+  background-color: #000937;
+  border: 1px solid #fff;
+}
